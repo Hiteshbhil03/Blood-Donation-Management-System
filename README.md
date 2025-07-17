@@ -1,4 +1,4 @@
-##**Blood Donation Web Application**  
+##Blood Donation Web Application 
 
 A web application that helps connect blood donors and recipients.
 
@@ -13,7 +13,7 @@ Recipients can search for nearby hospitals or nearby donors, view their contact 
 - Search hospitals and blood donation camps
 - View hospital locations
 - Contact hospitals directly
-- Recipients can request blood
+- Recipients can find nearby donors
 
 
 ## Tech Stack
